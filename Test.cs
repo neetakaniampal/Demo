@@ -1,2 +1,2 @@
-Console.WriteLn("Hello World");
+Console.WriteLine("Hello World");
 //integartion test
